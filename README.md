@@ -121,3 +121,18 @@ ___
 Function | MySQL / MariaDB | PostgreSQL | SQLite
 :------------ | :-------------| :-------------| :-------------
 substr | :heavy_check_mark: |  :white_check_mark: | :bamboo:
+
+
+<!-- To add COLOR -->
+<!-- First Create Custom tag or default tag with styling-->
+
+#### <p style="color:red"> Line with default tag. </p>
+
+<style>
+    r { color: Red }
+    o { color: Orange }
+    g { color: Green }
+</style>
+#### <r> Line with custom tag.</r>
+#### <o> Line with custom tag.</o>
+#### <g> Line with custom tag.</g>
