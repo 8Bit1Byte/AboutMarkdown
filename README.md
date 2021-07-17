@@ -3,7 +3,7 @@
 
 #### [Markdown to HTML](https://markdowntohtml.com/)
 
-##### Githut don't provide color in markown.
+> Githut don't provide color in markown.
 <!-- HEADING -->
 # Heading-1
 ## Heading-2
